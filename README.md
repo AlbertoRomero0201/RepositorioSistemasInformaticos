@@ -16,6 +16,7 @@
 
 </div>
 
+Repositorio para subir apuntes y ejercicios de la asignatura Sistemas Informáticos
 
 </body>
 </html>
